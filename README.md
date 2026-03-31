@@ -9,5 +9,5 @@ Repository containing the files and reports I created during my cybersecurity jo
 2. Conducting a Risk Assessment: I performed a structured cybersecurity risk assessment across a retail enterprise environment. This included creating an asset inventory, identifying threats and vulnerabilities, conducting a qualitative risk analysis, and making recommendations for mitigating these risks.
 
 # What files are attached:
-1. Risk assessment report
-2. Incident response report 
+- 📄 [Incident Response Report](Orion%Health%Services%Security%Breach%Impact%Report.pdf) 
+- 📄 [Risk Assessment Report](RetailNova%20Pty%20Ltd%20Risk%20Assessment.pdf)
